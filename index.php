@@ -59,7 +59,8 @@
         }
     </style>
     <h1>Hello World</h1>
-    <p>My name is <?php echo "John Doe"; ?></p>
+
+    <p>My name is <?php echo "lUIS lOYOLA"; ?></p>
     <p>Today is <?php echo date('Y-m-d'); ?></p>
     <p>Today is <?php echo date('Y-m-d H:i:s'); ?></p>
     <p>Today is <?php echo date('Y-m-d H:i:s', strtotime('+1 day')); ?></p>
